@@ -1,0 +1,55 @@
+import turtle as turtle
+#Hexagon
+# turtle.pencolor("red")
+# turtle.forward(100)
+# turtle.right(60)
+# turtle.pencolor("blue")
+# turtle.forward(100)
+# turtle.right(60)
+# turtle.pencolor("blue")
+# turtle.forward(100)
+# turtle.right(60)
+# turtle.pencolor("red")
+# turtle.forward(100)
+# turtle.right(60)
+# turtle.pencolor("blue")
+# turtle.forward(100)
+# turtle.right(60)
+# turtle.pencolor("blue")
+# turtle.forward(100)
+# turtle.right(60)
+
+
+#Square
+# turtle.pencolor("black")
+# turtle.forward(100)
+# turtle.right(90)
+# turtle.pencolor("black")
+# turtle.forward(100)
+# turtle.right(90)
+# turtle.pencolor("black")
+# turtle.forward(100)
+# turtle.right(90)
+# turtle.pencolor("black")
+# turtle.forward(100)
+# turtle.right(90)
+
+
+
+
+#Star
+turtle.pencolor("green")
+turtle.forward(110)
+turtle.left(216)
+turtle.pencolor("green")
+turtle.forward(110)
+turtle.left(216)
+turtle.pencolor("green")
+turtle.forward(110)
+turtle.left(216)
+turtle.pencolor("green")
+turtle.forward(110)
+turtle.left(216)
+turtle.pencolor("green")
+turtle.forward(110)
+turtle.left(216)
